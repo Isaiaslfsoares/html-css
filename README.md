@@ -1,5 +1,5 @@
 # html-css
- #Curso de HTML e CSS do Curso em Video - Gustavo Guanabara
+ ##Curso de HTML e CSS do Curso em Video - Gustavo Guanabara
 
  Excelente curso, mastigadinho sobre HTML E CSS gratuito, dividido em 5 módulos de 40h cada! 
 
@@ -7,36 +7,37 @@
 
  **Tão bão que é inacreditável ser gratuito!** 
 
--Exercícios:
+1. ###Exercícios:
 
- 1.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 001</a>
- 2.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 002</a>
- 3.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 003</a>
- 4.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 004</a>
- 5.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 005</a>
- 6.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 006</a>
- 7.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 007</a>
- 8.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 008</a>
- 9.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 009</a>
- 10.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 010</a>
- 11.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 011</a>
- 12.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 012</a>
- 13.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 013</a>
- 14.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 014</a>
- 15.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/index.html" >Acessar o exercício 015</a>
- 16.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-02/d001/index.html" >Acessar o exercício 016</a>
- 17.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-02/d001/index.html" >Acessar o exercício 017</a>
- 18.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-02/d001/index.html" >Acessar o exercício 018</a>
- 19.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-02/d001/index.html" >Acessar o exercício 019</a>
- 20.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-02/d001/index.html" >Acessar o exercício 020</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex001/index.html" >Acessar o exercício 001</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex002/index.html" >Acessar o exercício 002</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex003/index.html" >Acessar o exercício 003</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex004/index.html" >Acessar o exercício 004</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex005/index.html" >Acessar o exercício 005</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex006/index.html" >Acessar o exercício 006</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex007/index.html" >Acessar o exercício 007</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex008/index.html" >Acessar o exercício 008</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex009/index.html" >Acessar o exercício 009</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex010/index.html" >Acessar o exercício 010</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex011/index.html" >Acessar o exercício 011</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex012/index.html" >Acessar o exercício 012</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex013/index.html" >Acessar o exercício 013</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex014/index.html" >Acessar o exercício 014</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex015/index.html" >Acessar o exercício 015</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex016/index.html" >Acessar o exercício 016</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex017/index.html" >Acessar o exercício 017</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex018/index.html" >Acessar o exercício 018</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex019/index.html" >Acessar o exercício 019</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex020/index.html" >Acessar o exercício 020</a>
 
--Desafios: 
- 1.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001html" >Acessar a Desafio M01D001</a>
- 2.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d002html" >Acessar a Desafio M01D002</a>
- 3.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d003html" >Acessar a Desafio M01D003</a>
- 4.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d004html" >Acessar a Desafio M01D004</a>
- 5.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d005html" >Acessar a Desafio M01D005</a>
- 6.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d006html" >Acessar a Desafio M01D006</a>
- 7.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d007html" >Acessar a Desafio M01D007</a>
- 8.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d008html" >Acessar a Desafio M01D008</a>
- 9.<a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d009html" >Acessar a Desafio M01D009</a>
+
+2. ###Desafios: 
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001html" >Acessar a Desafio M01D001</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d002html" >Acessar a Desafio M01D002</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d003html" >Acessar a Desafio M01D003</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d004html" >Acessar a Desafio M01D004</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d005html" >Acessar a Desafio M01D005</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d006html" >Acessar a Desafio M01D006</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d007html" >Acessar a Desafio M01D007</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d008html" >Acessar a Desafio M01D008</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d009html" >Acessar a Desafio M01D009</a>
