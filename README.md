@@ -32,12 +32,12 @@
 
 
 ### Desafios: 
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001html" >Acessar a Desafio 1</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d002html" >Acessar a Desafio 2</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d003html" >Acessar a Desafio 3</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d004html" >Acessar a Desafio 4</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d005html" >Acessar a Desafio 5</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d006html" >Acessar a Desafio 6</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d007html" >Acessar a Desafio 7</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d008html" >Acessar a Desafio 8</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d009html" >Acessar a Desafio 9</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001/d001.html" >Acessar a Desafio 1</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d002/d002.html" >Acessar a Desafio 2</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d003/d003.html" >Acessar a Desafio 3</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d004/d004.html" >Acessar a Desafio 4</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d005/d005.html" >Acessar a Desafio 5</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d006/d006.html" >Acessar a Desafio 6</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d007/d007.html" >Acessar a Desafio 7</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d008/d008.html" >Acessar a Desafio 8</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d009/d009.html" >Acessar a Desafio 9</a>
