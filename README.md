@@ -1,5 +1,5 @@
 # html-css
- ##Curso de HTML e CSS do Curso em Video - Gustavo Guanabara
+## Curso de HTML e CSS do Curso em Video - Gustavo Guanabara
 
  Excelente curso, mastigadinho sobre HTML E CSS gratuito, dividido em 5 módulos de 40h cada! 
 
@@ -7,7 +7,7 @@
 
  **Tão bão que é inacreditável ser gratuito!** 
 
-1. ###Exercícios:
+1. ### Exercícios:
 
  - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex001/index.html" >Acessar o exercício 001</a>
  - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-01/ex002/index.html" >Acessar o exercício 002</a>
@@ -31,7 +31,7 @@
  - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex020/index.html" >Acessar o exercício 020</a>
 
 
-2. ###Desafios: 
+2. ### Desafios: 
  - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d001html" >Acessar a Desafio M01D001</a>
  - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d002html" >Acessar a Desafio M01D002</a>
  - <a href="https://isaiaslfsoares.github.io/html-css/desafios/modulo-01/d003html" >Acessar a Desafio M01D003</a>
