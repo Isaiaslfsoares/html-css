@@ -1,44 +1,41 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fundo</title>
+    <title>Alinhamento Vertical</title>
     <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
+        #container {
+            background-image: url(./target001.png);
+            background-size: 100% 100%;
+            position: relative; /* Não é necessário, o container por padrão é de posição relativa.*/
+            height: 96vh;
+            background-color: purple;
+            padding: 10px;
         }
+        
+        #conteudo {
+            background-image: url(./target001.png);
+            background-size: 100% 100%;
+            height: 200px;
+            width: 400px;
+            background-color: yellow;
+            position: absolute; /*A partir disso podemos configurar as características de left, right, top, bottom em %.*/
+            /* margin: auto; só serve para alinhamento horizontal */
 
-        h1 {
-            /*font-variant: small-caps;*/
-            text-transform: uppercase;
-        }
-
-        .container {
-            height: 50vh;
-            border: 4px solid black;
-            position: relative;
-            background-color: lightgray;
-        }
-
-        .content {
-            margin: 0px;
-            position: absolute;
-            background-color: gray;
+            left: 50%; /*o que é referência é a pontinha left e top da imagem amarela*/
             top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
 
+            transform: translate(-50%, -50%) /*A transoformação a partir da translação podemos mover a posição do elemento. */
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="content">
-            <h1>
-                Texto Centralizado
-            </h1>
-        </div>
-    </div>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
 </body>
+</html>
 </html>
