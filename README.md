@@ -29,8 +29,15 @@
  - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex018/index.html" >Acessar o exercício 18</a>
  - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex019/index.html" >Acessar o exercício 19</a>
  - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-02/ex020/index.html" >Acessar o exercício 20</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex022/index.html" >Acessar o exercício 22</a>
- - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex023/index.html" >Acessar o exercício 23</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex022/fundo001.html" >Acessar o exercício 22.a</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex022/fundo002.html" >Acessar o exercício 22.b</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex022/fundo003.html" >Acessar o exercício 22.c</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex022/fundo004.html" >Acessar o exercício 22.d</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex022/fundo005.html" >Acessar o exercício 22.e</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex023/tabela001.html" >Acessar o exercício 23.a</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex023/tabela002.html" >Acessar o exercício 23.b</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex023/tabela003.html" >Acessar o exercício 23.c</a>
+ - <a href="https://isaiaslfsoares.github.io/html-css/exercicios/modulo-03/ex023/tabela004.html" >Acessar o exercício 23.d</a>
 
 
 ### Desafios: 
