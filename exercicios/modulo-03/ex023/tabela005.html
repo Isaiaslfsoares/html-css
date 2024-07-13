@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrupando com Colgroup</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        .cNome {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercício de Tabela</h1>
+
+    <table>
+        <colgroup>
+            <col class="cNome">
+            <col class="cGenero">
+            <col class="cIdade">
+            <col class="cProf">            
+        </colgroup>
+        <caption>Cadastro</caption>
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Gênero</th>
+            <th scope="col">Idade</th>
+            <th scope="col">Profissão</th>
+        </tr>
+        <tr>
+            <td>Ana Maria</td>
+            <td>F</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+        <tr>
+            <td>João</td>
+            <td>M</td>
+            <td>39</td>
+            <td>Pedreiro</td>
+        </tr>
+        <tr>
+            <td>Renata</td>
+            <td>F</td>
+            <td>30</td>
+            <td>Arquiteta</td>
+        </tr>
+        <tr>
+            <td>Guiomar</td>
+            <td>F</td>
+            <td>33</td>
+            <td>Professora</td>
+        </tr>
+        <tr>
+            <td>Babara</td>
+            <td>F</td>
+            <td>32</td>
+            <td>Ilustradora</td>
+        </tr>
+        <tr>
+            <td>Sulivan</td>
+            <td>M</td>
+            <td>25</td>
+            <td>Músico</td>
+        </tr>
+    </table>
+</body>
+</html>
