@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segurança e iframes</title>
+</head>
+<body>
+    <p>
+        Problemas e incovenientes do iframe: 
+        Iframe vs frame: frame não se usa mais. iframes são úteis para trazer alguns conteúdos, como video do youtube, no seu site. 
+        Google bot é um algoritmo que usa critérios para estabelecer as relevância dos sites. O iframe por exemplo diminui essa relevância pois diminui o acesso do algoritmo a conteúdo indexado. Também dificulta os softwares de acessibilidade e de usabilidade.
+        
+        Quando usa o iframe, é como se abrisse uma porta para outros sites. Se a segurança do site é duvidosa, o seu site que utilizou o conteúdo do outro site pode ficar vulnerável a acesso a esses dados. 
+        Ataque de Crossite e XSS. 
+
+        Dobradinha de segurança: 
+        A configuração sandbox='sandbox' no iframe impede o envio de informações pelo acesso a página em formulários.
+        A configuração referrerpolicy="no-referrer" diz que o conteúdo do iframe não vai coletar dado do usuário. 
+
+        Para permitir o formulário: sandbox="allow-same-origin" ou "allow-forms" ou "allow-scripts"
+    </p>
+    
+    <h1>Meu site exemplo</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat expedita eveniet alias sunt, nobis assumenda sapiente laborum debitis quo molestiae minus omnis necessitatibus blanditiis nemo atque adipisci voluptatum dolor libero iste tempore aut, dicta hic. Iste hic debitis eum dolor perspiciatis consequuntur eligendi similique, obcaecati sit aspernatur maxime unde ut blanditiis molestias accusamus assumenda ad? Error quos nulla odit laboriosam reiciendis voluptatum, laborum illum hic et temporibus rem, minus quo earum ad optio alias. Id, necessitatibus. Atque quisquam laboriosam amet error autem voluptas, eum fugit consequatur nam dignissimos deleniti sit commodi, quae sequi odio eligendi doloribus cum provident? Debitis dolore fugiat, magnam sint numquam neque, unde quaerat vel laborum dolorum id distinctio! Doloremque vero dolor ipsam commodi iure maxime eveniet soluta facere ratione quibusdam amet et sunt quam quasi officia ad voluptates aut nesciunt, reiciendis libero quia. Deleniti exercitationem repellat illo nemo nostrum ipsa animi expedita commodi beatae repellendus dolorem, dicta fuga sed aspernatur non velit esse nam minima distinctio error! Molestiae at ullam alias nam ea, enim sed! Eum amet ratione accusamus! Ut distinctio, cumque ipsam quas vel corporis architecto quisquam animi odio accusantium sunt repellat aperiam maiores quos deleniti veritatis ex at. Necessitatibus non id qui atque earum!</p>
+    <iframe src="pag002.html" frameborder="0" sandbox="sandbox" referrerpolicy="no-referer-when-downgrade">Seu navegador não é compatível</iframe>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis libero dolorem natus accusamus, aut, dolore provident voluptates illo ipsum laudantium atque sed commodi. Eligendi beatae repudiandae eum, nobis laboriosam facilis accusantium ullam consectetur, dolorem quisquam libero neque? Maiores corrupti voluptatum eligendi tempora. Inventore sapiente commodi ullam perspiciatis rerum nihil id sequi praesentium repellat et aliquid voluptate accusantium illum cumque ab quibusdam, recusandae animi tempora incidunt blanditiis dolore quia. Velit, perferendis id obcaecati similique voluptatibus, error et, corrupti quo repellat alias illum vel ad repellendus cum rem. Ipsam voluptates error eveniet, possimus culpa recusandae ab quidem odit quos, eaque nostrum nam!</p>
+
+    <iframe src="pag003.html" referrerpolicy="no-referrer" sandbox="allow-scripts"></iframe>
+
+
+</body>
+</html>
